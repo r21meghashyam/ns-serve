@@ -1,0 +1,19 @@
+{
+  "name": "ng-serve",
+  "displayName": "Node Static Serve",
+  "version": "1.0.0",
+  "description": "Tiniest Nodejs Static Server without npm dependencies.",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "author": "Meghashyam Bhandary",
+  "license": "GNU GPL",
+  "preferGlobal": true,
+  "bin": {
+    "ns-serve": "serve.js"
+  },
+  "repository": {
+    "url": "https://github.com/r21meghashyam/ns-serve"
+  }
+}
