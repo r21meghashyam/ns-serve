@@ -1,7 +1,4 @@
 # ns-serve
-```diff
-- In Development, not on npm currently
-```
 Tiniest Nodejs Static Server without npm dependencies.
 
 Great to run static websites
