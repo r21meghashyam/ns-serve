@@ -11,7 +11,7 @@
   "license": "GNU GPL",
   "preferGlobal": true,
   "bin": {
-    "ns-serve": "serve.js"
+    "ns-serve": "ns-serve.js"
   },
   "repository": {
     "url": "https://github.com/r21meghashyam/ns-serve"
